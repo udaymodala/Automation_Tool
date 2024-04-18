@@ -1,0 +1,12 @@
+{
+  "PackageName" : "ibex-driver-P",
+  "ProjectName" : "IbexConnectTest",
+  "ProjectFilePath" : "C:/Users/pl1blabind/Desktop/uday/uday_ibex_work/IbexConnectTest/IbexConnectTest.csproj",
+  "SourceName" : "Artifactory",
+  "SourceDestination" : "https://artifactory.it.keysight.com/artifactory/api/nuget/v3/nuget-local-ibex-driver-prerelease/index.json",
+  "UserName" : "udaymoda",
+  "Password" : "cmVmdGtuOjAxOjAwMDAwMDAwMDA6dTJPRDNmakR1dFl4MUdLVVRLYUZ5d0lFeHVC",
+  "ApiKey" : "udaymoda:cmVmdGtuOjAxOjAwMDAwMDAwMDA6dTJPRDNmakR1dFl4MUdLVVRLYUZ5d0lFeHVC",
+  "Extension" : "-P",
+  "OutputDirectory" : "C:/"
+}
